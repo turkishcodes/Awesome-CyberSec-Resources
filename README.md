@@ -119,11 +119,9 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
    Built to take advantage of apache2 webserver to deliver payloads (LAN)
    using a fake webpage writen in html that takes advantage of <iframe> <meta-http-equiv> or <form> tags to
    be hable to trigger payload downloads, the user just needs to send the link provided to target host.
-5. [**Spycam**](https://github.com/thelinuxchoice/spycam)
-   Another tool for spying through the victim's camera, for capturing pictures and videos. 
-6. [**Mob-Droid**](https://github.com/kinghacker0/Mob-Droid)
+5. [**Mob-Droid**](https://github.com/kinghacker0/Mob-Droid)
    Helps you to generate metasploit payloads in easy way without typing long commands and save your time.
-7. [**Enigma**](https://github.com/UndeadSec/Enigma)
+6. [**Enigma**](https://github.com/UndeadSec/Enigma)
    Multiplatform payload dropper.
 
 ### Sniffing
