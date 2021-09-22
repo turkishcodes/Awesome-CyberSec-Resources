@@ -77,19 +77,17 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 7. [**ReconSpider**](https://github.com/bhavsec/reconspider)
    Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations and find out information from different sources.
    Recon Spider also combines the capabilities of Wave,Photon and Recon Dog to do a comprehensive enumeration of attack surface.
-8. [**IsItDown**](https://downdetector.com/)
-   Check if a website's server is working or not with this simple tool.
-9. [**Infoga - Email OSINT**](https://github.com/m4ll0k/Infoga)
+8. [**Infoga - Email OSINT**](https://github.com/m4ll0k/Infoga)
    A tool gathering email accounts informations (ip,hostname,country,...) from different public source (search engines, pgp key servers and shodan) and check if emails was leaked using haveibeenpwned.com API. Is a really simple tool, but very effective for the early stages of a penetration test or just to know the visibility of your company in the Internet.
-10. [**ReconDog**](https://github.com/s0md3v/ReconDog)
+9. [**ReconDog**](https://github.com/s0md3v/ReconDog)
     Main Features = Wizard + CLA interface, extracts targets from STDIN (piped input) and act upon them. All the information is extracted with APIs, no direct contact is made to the target. 
-11. [**Striker**](https://github.com/s0md3v/Striker)
+10. [**Striker**](https://github.com/s0md3v/Striker)
     Recon & Vulnerability Scanning Suite
-12. [**SecretFinder**](https://github.com/m4ll0k/SecretFinder)
+11. [**SecretFinder**](https://github.com/m4ll0k/SecretFinder)
     A python script based on LinkFinder (version for burpsuite here), written to discover sensitive data like apikeys, accesstoken, authorizations, jwt,..etc in JavaScript files. It does so by using jsbeautifier for python in combination with a fairly large regular expression. The regular expressions consists of four small regular expressions. These are responsible for finding and search anything on js files.    
-13. [**Port Scanner**](https://github.com/bao7uo/PortRanger)
+12. [**Port Scanner**](https://github.com/bao7uo/PortRanger)
     Converts an unordered list of ports on separate lines, which may contain duplicates, to a more condensed, comma-separated list of port ranges without duplicates in ascending numerical order.
-15. [**Breacher**](https://github.com/s0md3v/Breacher)
+13. [**Breacher**](https://github.com/s0md3v/Breacher)
     A script to find admin login pages and EAR vulnerabilites.
 
 ### System Hacking
