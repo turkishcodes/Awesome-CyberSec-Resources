@@ -20,29 +20,9 @@
   <img align="left" alt="theepiccode's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br>
-<br>
 
-## Table of Contents
-- [Footprinting and Reconnaissance](#Footprinting-Reconnaissance)
-- [Scanning Networks](#Scanning-Networks)
-- [Enumeration](#Enumeration)
-- [System Hacking](#System-Hacking)
-- [Malware Threats](#Malware-Threats)
-- [Sniffing](#Sniffing)
-- [Social Engineering](#Social-Engineering)
-- [Denial Of Service](#Denial-Of-Service)
-- [Session Hijacking](#Session-Hijacking)
-- [Evading IDS, Firewalls and Honeypots](#Evading-IDS)
-- [Hacking Web Servers](#Hacking-Web-Servers)
-- [Hacking Web Applications](#Hacking-Web-Applications)
-- [SQL Injection](#SQL-Injection)
-- [Hacking Wireless Networks](#Hacking-Wireless-Networks)
-- [Hacking Mobile Platforms](#Hacking-Mobile-Platforms)
-- [IoT Hacking](#IoT-Hacking)
-- [Cloud Computing](#Cloud-Computing)
-- [Cryptography](#Cryptography)
+### Footprinting 🦶🏻 and Reconnaissance 🕵🏻‍♂️
 
-### Footprinting and Reconnaissance
 1. [**Autopsy**](https://www.autopsy.com)
 Led by Brian Carrier, whose team builds easy-to-use tools for cyber first responders to intrusions, crime scenes, and war zones. Our team also develops Cyber Triage, fast and affordable incident response software any organization can use to rapidly investigate compromised endpoints.
 
@@ -56,41 +36,43 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 4. [**Toolsley**](https://www.toolsley.com)
     A privately owned website dedicated to bring you no-hassle tools that are for verifying, hashing, generating and identifying multiple formats of data files.
 
-### Scanning Networks
+### Scanning Networks 🔍
+
 1. [**Nmap**](https://www.nmap.org)
     A free and open source (license) utility for network discovery and security auditing. Many systems and network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. It was designed to rapidly scan large networks, but works fine against single hosts. 
 
 2. [**Wireshark**](https://www.wireshark.org)
     The world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. Wireshark development thrives thanks to the volunteer contributions of networking experts around the globe and is the continuation of a project started by Gerald Combs in 1998.
 
-### Enumeration
+### Enumeration 📖
+
 1. [**Network Map**](https://github.com/nmap/nmap)
    A free and open source (license) utility for network discovery and security auditing. Many systems and network administrators also find it useful for tasks such as network inventory, managing service upgrade schedules, and monitoring host or service uptime. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. It was designed to rapidly scan large networks, but works fine against single hosts.
 2. [**Dracnmap**](https://github.com/Screetsec/Dracnmap)
    An open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.
 3. **Port scanning**
    Network port scanner has become an essential part of network admins go-to tools to secure networks with port scanning and network port investigation. Ports act as communication terminals that allow communication between different network components by running various services. A network port scanner enables port scanning your entire network to determine which ports on your network are open and what services are running on them. 
-4. **Host to IP 
-5. [**Xerosploit**](https://github.com/LionSec/xerosploit)
+4. [**Xerosploit**](https://github.com/LionSec/xerosploit)
    A penetration testing toolkit whose goal is to perform man in the middle attacks for testing purposes. It brings various modules that allow to realise efficient attacks, and also allows to carry out denial of service attacks and port scanning. Powered by bettercap and nmap.
-6. [**RED HAWK**](https://github.com/Tuhinshubhra/RED_HAWK)
-7. [**ReconSpider**](https://github.com/bhavsec/reconspider)
+5. [**RED HAWK**](https://github.com/Tuhinshubhra/RED_HAWK)
+6. [**ReconSpider**](https://github.com/bhavsec/reconspider)
    Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations and find out information from different sources.
    Recon Spider also combines the capabilities of Wave,Photon and Recon Dog to do a comprehensive enumeration of attack surface.
-8. [**Infoga - Email OSINT**](https://github.com/m4ll0k/Infoga)
+7. [**Infoga - Email OSINT**](https://github.com/m4ll0k/Infoga)
    A tool gathering email accounts informations (ip,hostname,country,...) from different public source (search engines, pgp key servers and shodan) and check if emails was leaked using haveibeenpwned.com API. Is a really simple tool, but very effective for the early stages of a penetration test or just to know the visibility of your company in the Internet.
-9. [**ReconDog**](https://github.com/s0md3v/ReconDog)
+8. [**ReconDog**](https://github.com/s0md3v/ReconDog)
     Main Features = Wizard + CLA interface, extracts targets from STDIN (piped input) and act upon them. All the information is extracted with APIs, no direct contact is made to the target. 
-10. [**Striker**](https://github.com/s0md3v/Striker)
+9. [**Striker**](https://github.com/s0md3v/Striker)
     Recon & Vulnerability Scanning Suite
-11. [**SecretFinder**](https://github.com/m4ll0k/SecretFinder)
+10. [**SecretFinder**](https://github.com/m4ll0k/SecretFinder)
     A python script based on LinkFinder (version for burpsuite here), written to discover sensitive data like apikeys, accesstoken, authorizations, jwt,..etc in JavaScript files. It does so by using jsbeautifier for python in combination with a fairly large regular expression. The regular expressions consists of four small regular expressions. These are responsible for finding and search anything on js files.    
-12. [**Port Scanner**](https://github.com/bao7uo/PortRanger)
+11. [**Port Scanner**](https://github.com/bao7uo/PortRanger)
     Converts an unordered list of ports on separate lines, which may contain duplicates, to a more condensed, comma-separated list of port ranges without duplicates in ascending numerical order.
-13. [**Breacher**](https://github.com/s0md3v/Breacher)
+12. [**Breacher**](https://github.com/s0md3v/Breacher)
     A script to find admin login pages and EAR vulnerabilites.
 
-### System Hacking
+### System Hacking 🧑🏼‍💻
+
 1. [**Setoolkit**](https://github.com/trustedsec/social-engineer-toolkit)
   An open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio.
 2. [**SocialFish**](https://github.com/UndeadSec/SocialFish)
@@ -108,7 +90,8 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 8. [**BlackPhish**](https://github.com/iinc0gnit0/BlackPhish)
    Super lightweight with many features and blazing fast speeds.
 
-### Payload Creation
+### Payload Creation 📦
+
 1. [**The FatRat**](https://github.com/Screetsec/TheFatRat)
    An exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.
 2. [**Brutal**](https://github.com/Screetsec/Brutal)
@@ -124,7 +107,7 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 6. [**Enigma**](https://github.com/UndeadSec/Enigma)
    Multiplatform payload dropper.
 
-### Sniffing
+### Sniffing 🐶
 
 1. [**OpenVAS**](https://www.openvas.org)
    A full-featured vulnerability scanner. Its capabilities include unauthenticated testing, authenticated testing, various high level and low level Internet and industrial protocols, performance tuning for large-scale scans and a powerful internal programming language to implement any type of vulnerability test.
@@ -150,11 +133,13 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
     An open source tool used for web application vulnerability testing. It is designed in such a way that users having the right knowledge can create their own scanners using this as a framework. IronWASP is built using Python and Ruby and users having knowledge of them would be able to make full use of the platform. However, IronWASP provides with a lot of features are simple to understand.
     
 
-### Social Engineering
+### Social Engineering 📱
+  
 1. [**Awesome Social Engineering**](https://github.com/v2-dev/awesome-social-engineering)
    A curated list of awesome social engineering resources, inspired by the awesome-* trend on GitHub.
 
-### Denial Of Service
+### Denial Of Service 🛠
+  
 1. **SlowLoris**
    An HTTP Denial of Service attack that affects threaded servers.
 2. [**Asyncrone | Multifunction SYN Flood DDoS Weapon**](https://github.com/fatihsnsy/aSYNcrone)
@@ -164,13 +149,15 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 4. [**GoldenEye**](https://github.com/jseidl/GoldenEye)
    GoldenEye is an HTTP DoS Test Tool.
 
-### Session Hijacking
+### Session Hijacking 💽
+  
 1. [**Debinject**](https://github.com/UndeadSec/Debinject)   
    Inject malicious code into .debs
 2. [**Pixload**](https://github.com/chinarulezzz/pixload)
    Set of tools for hiding backdoors creating/injecting payload into images.
 
-### Evading IDS, Firewalls and Honeypots
+### Evading IDS, Firewalls and Honeypots 🐝
+  
 1. [**Bluetooth Honeypot**](https://github.com/andrewmichaelsmith/bluepot)
    A Bluetooth Honeypot written in Java, it runs on Linux. The system also allows monitoring of attacks via a graphical user interface that provides graphs, lists, a dashboard and further detailed analysis from log files.
 2. [**Kippo**](https://github.com/desaster/kippo)
@@ -184,13 +171,12 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 6. [**Honey Thing**](https://github.com/omererdem/honeything)
    A honeypot for Internet of TR-069 things. It's designed to act as completely a modem/router that has RomPager embedded web server and supports TR-069 (CWMP) protocol.
 
-### Hacking Web Servers
-
-### Hacking Web Applications
+### Hacking Web Applications 🧑🏼‍💻
 1. [**Awesome Web Hacking**](https://github.com/infoslack/awesome-web-hacking)
    A collection of tools used for SQL Injections and hacking websites.
 
-### SQL Injection
+### SQL Injection 💉
+  
 1. [**Sqlmap tool**](https://github.com/sqlmapproject/sqlmap)
    An open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers.
 2. [**NoSqlMap**](https://github.com/codingo/NoSQLMap)
@@ -206,7 +192,7 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 7. [**SQLScan**](https://github.com/Cvar1984/sqlscan)  
    Quick web scanner for find an sql inject point on a website.
    
-### Hacking Wireless Networks
+### Hacking Wireless Networks 🕸
 
 1. [**WiFi-Pumpkin**](https://github.com/P0cL4bs/wifipumpkin3)
    A powerful framework for rogue access point attack, written in Python, that allow and offer to security researchers, red teamers and reverse engineers to mount a wireless network to conduct a man-in-the-middle attack.
@@ -225,7 +211,8 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 8. [**Fastssh**](https://github.com/Z4nzu/fastssh)
    A Shell Script to perform multi-threaded scan and brute force attack against SSH protocol using the most commonly credentials.
 
-### Hacking Mobile Platforms
+### Hacking Mobile Platforms 📱
+  
 1. [**Keydroid**](https://github.com/F4dl0/keydroid)
    Android Keylogger + Reverse Shell.
 2. [**MySMS**](https://github.com/papusingh2sms/mysms)
@@ -239,12 +226,11 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 6. [**HatCloud(Bypass CloudFlare for IP)**](https://github.com/HatBashBR/HatCloud)
    It makes bypass in CloudFlare for discover real IP. This can be useful if you need test your server and website. Testing your protection against Ddos (Denial of Service) or Dos. CloudFlare is services and distributed domain name server services, sitting between the visitor and the Cloudflare user's hosting provider, acting as a reverse proxy for websites. Your network protects, speeds up and improves availability for a website or the mobile application with a DNS change.
 
-### IoT Hacking
+### IoT Hacking 🤖
+  
 1. [**Vehicle Security**](https://github.com/jaredthecoder/awesome-vehicle-security)
   A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.
   
-### Cloud Computing
-
-### Cryptography
+### Cryptography 🔒
 1. [**Awesome Cryptography**](https://github.com/sobolevn/awesome-cryptography)
    A curated list of cryptography resources and links.
