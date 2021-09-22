@@ -77,7 +77,7 @@ Led by Brian Carrier, whose team builds easy-to-use tools for cyber first respon
 7. [**ReconSpider**](https://github.com/bhavsec/reconspider)
    Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations and find out information from different sources.
    Recon Spider also combines the capabilities of Wave,Photon and Recon Dog to do a comprehensive enumeration of attack surface.
-8. [**IsItDown**] (Check Website Down/Up) 
+8. [**IsItDown**](https://downdetector.com/)
    Check if a website's server is working or not with this simple tool.
 9. [**Infoga - Email OSINT**](https://github.com/m4ll0k/Infoga)
    A tool gathering email accounts informations (ip,hostname,country,...) from different public source (search engines, pgp key servers and shodan) and check if emails was leaked using haveibeenpwned.com API. Is a really simple tool, but very effective for the early stages of a penetration test or just to know the visibility of your company in the Internet.
