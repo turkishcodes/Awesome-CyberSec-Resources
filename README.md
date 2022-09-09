@@ -21,52 +21,52 @@ Repository | Description
 # Scanning Networks 🔍
 Repository | Description
 ---- | ----
-[**Nmap**](https://www.nmap.org)    | A free and open source (license) utility for network discovery and security auditing.
-[**Wireshark**](https://www.wireshark.org)    | The world’s foremost and widely-used network protocol analyzer.
+[**Nmap**](https://www.nmap.org)    | Ağ keşfi ve güvenlik denetimi için ücretsiz ve açık kaynaklı (lisans) bir yardımcı program.
+[**Wireshark**](https://www.wireshark.org)    | Dünyanın önde gelen ve yaygın olarak kullanılan ağ protokolü analizörü.
      
      
      
 # Enumeration 📖
 Repository | Description
 ---- | ----
-[**Network Map**](https://github.com/nmap/nmap)    | Designed to rapidly scan large networks, but works fine against single hosts.
-[**Dracnmap**](https://github.com/Screetsec/Dracnmap)    | Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap.
-**Port scanning**    |  Enables port scanning your entire network to determine which ports on your network are open and what services are running on them. 
-[**Xerosploit**](https://github.com/LionSec/xerosploit)    | A pentesting toolkit whose goal is to perform man in the middle attacks for testing purposes.
+[**Network Map**](https://github.com/nmap/nmap)    | Büyük ağları hızla taramak için tasarlanmıştır, ancak tek ana bilgisayarlara karşı iyi çalışır.
+[**Dracnmap**](https://github.com/Screetsec/Dracnmap)    | Dracnmap, nmap'in komut dosyası motorunu kullanarak hızlı tarama yapmak için tasarlanmıştır.
+**Port scanning**    |  Ağınızdaki hangi bağlantı noktalarının açık olduğunu ve bunlar üzerinde hangi hizmetlerin çalıştığını belirlemek için tüm ağınızı bağlantı noktası taramasına olanak tanır.
+[**Xerosploit**](https://github.com/LionSec/xerosploit)    | Hedefi, test amacıyla ortadaki adam saldırılarını gerçekleştirmek olan bir pentesting araç seti.
 [**RED HAWK**](https://github.com/Tuhinshubhra/RED_HAWK)
-[**ReconSpider**](https://github.com/bhavsec/reconspider)    | Framework for scanning IP Address, Emails, Websites, Organizations.
-[**Infoga - Email OSINT**](https://github.com/m4ll0k/Infoga)    |  A tool gathering email accounts informations from different public sources.
-[**ReconDog**](https://github.com/s0md3v/ReconDog)    | Main Features = Wizard + CLA interface, extracts targets from STDIN (piped input) and act upon them. 
-[**Striker**](https://github.com/s0md3v/Striker)    | Recon & Vulnerability Scanning Suite.
-[**SecretFinder**](https://github.com/m4ll0k/SecretFinder)    | Written to discover sensitive data like apikeys, accesstoken, authorizations, jwt in JavaScript files.
-[**Port Scanner**](https://github.com/bao7uo/PortRanger)    | Converts an unordered list of ports on separate lines in a numerical order.
-[**Breacher**](https://github.com/s0md3v/Breacher)    | A script to find admin login pages and EAR vulnerabilites.
+[**ReconSpider**](https://github.com/bhavsec/reconspider)    | IP Adresini, E-postaları, Web Sitelerini, Kuruluşları taramak için çerçeve.
+[**Infoga - Email OSINT**](https://github.com/m4ll0k/Infoga)    |  Farklı kamu kaynaklarından e-posta hesap bilgilerini toplayan bir araç.
+[**ReconDog**](https://github.com/s0md3v/ReconDog)    | Ana Özellikler = Sihirbaz + CLA arayüzü, STDIN'den (boru girişi) hedefleri çıkarır ve bunlara göre hareket eder. 
+[**Striker**](https://github.com/s0md3v/Striker)    | Keşif ve Güvenlik Açığı Tarama Paketi.
+[**SecretFinder**](https://github.com/m4ll0k/SecretFinder)    | JavaScript dosyalarındaki apikeyler, erişim belirteçleri, yetkilendirmeler, jwt gibi hassas verileri keşfetmek için yazılmıştır.
+[**Port Scanner**](https://github.com/bao7uo/PortRanger)    | Sayısal sırayla ayrı satırlardaki sırasız bağlantı noktası listesini dönüştürür.
+[**Breacher**](https://github.com/s0md3v/Breacher)    | Yönetici giriş sayfalarını ve EAR güvenlik açıklarını bulmak için bir komut dosyası.
 
 
 
 # System Hacking 🧑🏼‍💻
 Repository | Description
 ---- | ----
-[**Setoolkit**](https://github.com/trustedsec/social-engineer-toolkit)    | An open-source penetration testing framework designed for social engineering.
-[**SocialFish**](https://github.com/UndeadSec/SocialFish)    | A program designed to know social media stats and information related to an account.
-[**HiddenEye**](https://github.com/Open-Security-Group-OSG/HiddenEyeReborn)    | Multi-featured tool for human mistakes exploitation.
-[**Evilginx2**](https://github.com/kgretzky/evilginx2)    | A man-in-the-middle attack framework used for phishing login credentials along with session cookies.
-[**I-See_You**](https://github.com/Viralmaniar/I-See-You)    | Tool to find the exact location of the users during social engineering or phishing engagements.
-[**SayCheese**](https://github.com/hangetzzu/saycheese)    | Take webcam shots from target just sending a malicious link.
-[**QR Code Jacking**](https://github.com/cryptedwolf/ohmyqr)    | Port Forwarding using Ngrok or Serveo.
-[**BlackPhish**](https://github.com/iinc0gnit0/BlackPhish)    | Super lightweight with many features and blazing fast speeds.
+[**Setoolkit**](https://github.com/trustedsec/social-engineer-toolkit)    | Sosyal mühendislik için tasarlanmış açık kaynaklı bir sızma testi çerçevesi.
+[**SocialFish**](https://github.com/UndeadSec/SocialFish)    | Sosyal medya istatistiklerini ve bir hesapla ilgili bilgileri bilmek için tasarlanmış bir program.
+[**HiddenEye**](https://github.com/Open-Security-Group-OSG/HiddenEyeReborn)    | İnsan hatalarının sömürülmesi için çok özellikli araç.
+[**Evilginx2**](https://github.com/kgretzky/evilginx2)    | Oturum tanımlama bilgileriyle birlikte kimlik avı oturum açma kimlik bilgileri için kullanılan bir ortadaki adam saldırısı çerçevesi.
+[**I-See_You**](https://github.com/Viralmaniar/I-See-You)    | Sosyal mühendislik veya kimlik avı angajmanları sırasında kullanıcıların tam konumunu bulma aracı.
+[**SayCheese**](https://github.com/hangetzzu/saycheese)    | Sadece kötü amaçlı bir bağlantı göndererek hedeften web kamerası çekimleri yapın.
+[**QR Code Jacking**](https://github.com/cryptedwolf/ohmyqr)    | Ngrok veya Serveo kullanarak Bağlantı Noktası Yönlendirme.
+[**BlackPhish**](https://github.com/iinc0gnit0/BlackPhish)    | Birçok özelliğe ve inanılmaz yüksek hızlara sahip süper hafif.
 
 
 
 # Payload Creation 📦
 Repository | Description
 ---- | ----
-[**The FatRat**](https://github.com/Screetsec/TheFatRat)    | Provides An Easy way to create Backdoors and Payload which can bypass most anti-virus.
-[**Brutal**](https://github.com/Screetsec/Brutal)    | Quickly create various powershell attack, virus attack and launch listener for a Human Interface Device.
-[**MSFvenom Payload Creator**](https://github.com/g0tmi1k/msfpc)    | A wrapper to generate multiple types of payloads, based on users choice.
-[**Venom Shellcode Generator**](https://github.com/r00t-3xp10it/venom)   | Built to take advantage of apache2 webserver to deliver payloads (LAN).
-[**Mob-Droid**](https://github.com/kinghacker0/Mob-Droid)    | Generate metasploit payloads in easy way without typing long commands and save your time.
-[**Enigma**](https://github.com/UndeadSec/Enigma)    | Multiplatform payload dropper.
+[**The FatRat**](https://github.com/Screetsec/TheFatRat)    | Çoğu anti-virüsü atlayabilen Arka Kapılar ve Yük oluşturmanın Kolay bir yolunu sunar.
+[**Brutal**](https://github.com/Screetsec/Brutal)    | Hızla çeşitli powershell saldırısı, virüs saldırısı oluşturun ve bir İnsan Arayüzü Aygıtı için dinleyici başlatın.
+[**MSFvenom Payload Creator**](https://github.com/g0tmi1k/msfpc)    | Kullanıcıların seçimine göre birden çok türde yük oluşturmak için bir sarmalayıcı.
+[**Venom Shellcode Generator**](https://github.com/r00t-3xp10it/venom)   | Yükleri (LAN) sağlamak için apache2 web sunucusundan yararlanmak üzere oluşturulmuştur.
+[**Mob-Droid**](https://github.com/kinghacker0/Mob-Droid)    | Uzun komutlar yazmadan kolay bir şekilde metasploit yükleri oluşturun ve zamandan tasarruf edin.
+[**Enigma**](https://github.com/UndeadSec/Enigma)    | Çok platformlu payload dropper.
 
 
 
