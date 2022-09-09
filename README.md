@@ -7,19 +7,19 @@
 
 </div>
 
-# Footprinting 🦶🏻 and Reconnaissance 🕵🏻‍♂️
+# Ayakizi 🦶🏻 ve Keşif 🕵🏻‍♂️
 
-Repository | Description
+Depo | Açıklama
 ---- | ----
-[**Autopsy**](https://www.autopsy.com)    | Fast though an affordable incident response software.         
-[**Bulkextractor**](https://github.com/simsong/bulk_extractor)   |  Forensic investigation tool for many tasks such as malware and intrusion.
-[**Media Acquistion**](https://guymager.sourceforge.io/)    |   Visits that came from someone going to your site from organic search results.
-[**Toolsley**](https://www.toolsley.com)    | No-hassle tools that are for verifying, hashing, generating and identifying multiple formats of data files.
+[**Autopsy**](https://www.autopsy.com)    | Uygun fiyatlı bir olay müdahale yazılımı olmasına rağmen hızlı.         
+[**Bulkextractor**](https://github.com/simsong/bulk_extractor)   |  Kötü amaçlı yazılım ve izinsiz giriş gibi birçok görev için adli soruşturma aracı.
+[**Media Acquistion**](https://guymager.sourceforge.io/)    |   Organik arama sonuçlarından sitenize giden birinden gelen ziyaretler.
+[**Toolsley**](https://www.toolsley.com)    | Birden çok veri dosyası biçimini doğrulamak, karma oluşturmak, oluşturmak ve tanımlamak için sorunsuz araçlar.
 
 
 
-# Scanning Networks 🔍
-Repository | Description
+# Ağları Tarama 🔍
+Depo | Açıklama
 ---- | ----
 [**Nmap**](https://www.nmap.org)    | Ağ keşfi ve güvenlik denetimi için ücretsiz ve açık kaynaklı (lisans) bir yardımcı program.
 [**Wireshark**](https://www.wireshark.org)    | Dünyanın önde gelen ve yaygın olarak kullanılan ağ protokolü analizörü.
@@ -27,7 +27,7 @@ Repository | Description
      
      
 # Enumeration 📖
-Repository | Description
+Depo | Açıklama
 ---- | ----
 [**Network Map**](https://github.com/nmap/nmap)    | Büyük ağları hızla taramak için tasarlanmıştır, ancak tek ana bilgisayarlara karşı iyi çalışır.
 [**Dracnmap**](https://github.com/Screetsec/Dracnmap)    | Dracnmap, nmap'in komut dosyası motorunu kullanarak hızlı tarama yapmak için tasarlanmıştır.
@@ -44,8 +44,8 @@ Repository | Description
 
 
 
-# System Hacking 🧑🏼‍💻
-Repository | Description
+# Sistem Hackleme 🧑🏼‍💻
+Depo | Açıklama
 ---- | ----
 [**Setoolkit**](https://github.com/trustedsec/social-engineer-toolkit)    | Sosyal mühendislik için tasarlanmış açık kaynaklı bir sızma testi çerçevesi.
 [**SocialFish**](https://github.com/UndeadSec/SocialFish)    | Sosyal medya istatistiklerini ve bir hesapla ilgili bilgileri bilmek için tasarlanmış bir program.
@@ -58,8 +58,8 @@ Repository | Description
 
 
 
-# Payload Creation 📦
-Repository | Description
+# Payload Oluşturma 📦
+Depo | Açıklama
 ---- | ----
 [**The FatRat**](https://github.com/Screetsec/TheFatRat)    | Çoğu anti-virüsü atlayabilen Arka Kapılar ve Yük oluşturmanın Kolay bir yolunu sunar.
 [**Brutal**](https://github.com/Screetsec/Brutal)    | Hızla çeşitli powershell saldırısı, virüs saldırısı oluşturun ve bir İnsan Arayüzü Aygıtı için dinleyici başlatın.
@@ -70,8 +70,8 @@ Repository | Description
 
 
 
-# Sniffing 🐶
-Repository | Description
+# Koklama Saldırıları 🐶
+Depo | Açıklama
 ---- | ----
 [**OpenVAS**](https://www.openvas.org)    |  A full-featured vulnerability scanner.
 [**Nikto**](https://cirt.net/Nikto2)    |  An Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items.
@@ -87,15 +87,15 @@ Repository | Description
   
   
 
-# Social Engineering 📱
-Repository | Description
+# Sosyal Mühendislik 📱
+Depo | Açıklama
 ---- | ----
 [**Awesome Social Engineering**](https://github.com/v2-dev/awesome-social-engineering)    | List of awesome social engineering resources.
 
 
 
-# Denial Of Service 🛠
-Repository | Description
+# Hizmet Reddi Saldırıları (D&DOS) 🛠
+Depo | Açıklama
 ---- | ----  
 [**Asyncrone**](https://github.com/fatihsnsy/aSYNcrone)    | Multifunction SYN Flood DDoS Weapon.
 [**UFOnet**](https://github.com/epsylon/ufonet)    | Cryptographic -disruptive toolkit- that allows to perform DoS and DDoS attacks.
@@ -103,16 +103,16 @@ Repository | Description
 
 
 
-# Session Hijacking 💽
-Repository | Description
+# Oturum Çalma 💽
+Depo | Açıklama
 ---- | ----    
 [**Debinject**](https://github.com/UndeadSec/Debinject)    | Inject malicious code into .debs
 [**Pixload**](https://github.com/chinarulezzz/pixload)    | Set of tools for hiding backdoors creating/injecting payload into images.
 
 
 
-# Evading IDS, Firewalls and Honeypots 🐝
-Repository | Description
+# IDS, Güvenlik Duvarları ve Honeypot'lardan Kaçınmak 🐝
+Depo | Açıklama
 ---- | ---- 
 [**Bluetooth Honeypot**](https://github.com/andrewmichaelsmith/bluepot)    | The system allows monitoring of attacks via a graphical user interface.
 [**Kippo**](https://github.com/desaster/kippo)    | SSH honeypot designed to log brute force attacks.   
@@ -123,15 +123,15 @@ Repository | Description
 
 
 
-# Hacking Web Applications 🧑🏼‍💻
-Repository | Description
+# Web Uygulamalarını Hacklemek 🧑🏼‍💻
+Depo | Açıklama
 ---- | ---- 
 [**Awesome Web Hacking**](https://github.com/infoslack/awesome-web-hacking)    | A collection of tools used for SQL Injections and hacking websites.
 
 
 
-# SQL Injection 💉
-Repository | Description
+# SQL Enjeksiyonu 💉
+Depo | Açıklama
 ---- | ----  
 [**Sqlmap tool**](https://github.com/sqlmapproject/sqlmap)    | Automates the process of detecting and exploiting SQL injection flaws. 
 [**NoSqlMap**](https://github.com/codingo/NoSQLMap)    | Audit for as well as automate injection attacks and exploit default configuration weaknesses in databases.
@@ -143,8 +143,8 @@ Repository | Description
  
  
  
-# Hacking Wireless Networks 🕸
-Repository | Description
+# Kablosuz Ağları Hacklemek 🕸
+Depo | Açıklama
 ---- | ---- 
 [**WiFi-Pumpkin**](https://github.com/P0cL4bs/wifipumpkin3)    |    A powerful framework which allows and offers security researchers, to mount a wireless network to conduct MITM.
 [**pixiewps**](https://github.com/wiire-a/pixiewps)    | Used to bruteforce offline the WPS PIN exploiting the low or non-existing entropy of some software implementations
@@ -157,8 +157,8 @@ Repository | Description
 
 
 
-# Hacking Mobile Platforms 📱
-Repository | Description
+# Mobil Platformları Hacklemek 📱
+Depo | Açıklama
 ---- | ----   
 [**Keydroid**](https://github.com/F4dl0/keydroid)   | Android Keylogger + Reverse Shell.
 [**MySMS**](https://github.com/papusingh2sms/mysms)    | Script that generates an Android App to hack SMS through WAN.
@@ -169,14 +169,14 @@ Repository | Description
 
 
 
-# IoT Hacking 🤖
-Repository | Description
+# IoT Hackleme 🤖
+Depo | Açıklama
 ---- | ----   
 [**Vehicle Security**](https://github.com/jaredthecoder/awesome-vehicle-security)    | A curated list about vehicle security, car hacking, and tinkering with the functionality of your car.
   
   
   
-# Cryptography 🔒
-Repository | Description
+# Kriptografi 🔒
+Depo | Açıklama
 ---- | ---- 
 [**Awesome Cryptography**](https://github.com/sobolevn/awesome-cryptography)    | A curated list of cryptography resources and links.
