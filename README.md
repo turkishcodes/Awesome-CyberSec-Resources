@@ -1,3 +1,5 @@
+This resource has been translated from English to Turkish. | Bu kaynak İngilizce'den Türkçe'ye çevrilmiştir.
+
 # Ayakizi 🦶🏻 ve Keşif 🕵🏻‍♂️
 
 Depo | Açıklama
@@ -64,87 +66,87 @@ Depo | Açıklama
 # Koklama Saldırıları 🐶
 Depo | Açıklama
 ---- | ----
-[**OpenVAS**](https://www.openvas.org)    |  A full-featured vulnerability scanner.
-[**Nikto**](https://cirt.net/Nikto2)    |  An Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items.
-[**Wapiti**](https://wapiti.sourceforge.io/)    | Audit the security of your websites or web applications.
-[**Metasploit**](https://www.metasploit.com/)    | Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments.
-[**Maltego**](https://www.maltego.com/)    | Graphical link analysis tool for gathering and connecting information for investigative tasks.
-[**Canvas**](https://www.immunityinc.com/products/canvas/)   | Makes available hundreds of exploits, an automated exploitation system.
-[**Sn1per**](https://github.com/1N3/Sn1per)    | An automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities.
-[**Lazyrecon**](https://github.com/nahamsec/lazyrecon)    | Is intended to automate some tedious tasks of reconnaissance and information gathering. 
-[**Osmedeus**](https://github.com/j3ssie/Osmedeus)   | Run the collection of awesome tools to reconnaissance and vulnerability scanning against the target.
-[**Reconness**](https://github.com/reconness/reconness)    |  Exploit the targets using one specific kind of vulnerability.
-[**IronWASP**](https://resources.infosecinstitute.com/ironwasp-part-1-2/)    | Used for web application vulnerability testing.
+[**OpenVAS**](https://www.openvas.org)    |  Tam özellikli bir güvenlik açığı tarayıcısı.
+[**Nikto**](https://cirt.net/Nikto2)    |  Birden çok öğe için web sunucularına karşı kapsamlı testler gerçekleştiren bir Açık Kaynak (GPL) web sunucusu tarayıcısı.
+[**Wapiti**](https://wapiti.sourceforge.io/)    | Web sitelerinizin veya web uygulamalarınızın güvenliğini denetleyin.
+[**Metasploit**](https://www.metasploit.com/)    | Metasploit, güvenlik ekiplerinin güvenlik açıklarını doğrulamaktan, güvenlik değerlendirmelerini yönetmekten daha fazlasını yapmasına yardımcı olur.
+[**Maltego**](https://www.maltego.com/)    | Araştırma görevleri için bilgi toplamak ve bağlamak için grafiksel bağlantı analiz aracı.
+[**Canvas**](https://www.immunityinc.com/products/canvas/)   | Otomatik bir sömürü sistemi olan yüzlerce istismarı kullanıma sunar.
+[**Sn1per**](https://github.com/1N3/Sn1per)    | Güvenlik açıklarını sıralamak ve taramak için bir sızma testi sırasında kullanılabilen otomatik bir tarayıcı.
+[**Lazyrecon**](https://github.com/nahamsec/lazyrecon)    | Bazı sıkıcı keşif ve bilgi toplama görevlerini otomatikleştirmeyi amaçlamaktadır.
+[**Osmedeus**](https://github.com/j3ssie/Osmedeus)   | Hedefe karşı keşif ve güvenlik açığı taraması yapmak için harika araçlar koleksiyonunu çalıştırın.
+[**Reconness**](https://github.com/reconness/reconness)    |  Belirli bir tür güvenlik açığı kullanarak hedeflerden yararlanın.
+[**IronWASP**](https://resources.infosecinstitute.com/ironwasp-part-1-2/)    | Web uygulaması güvenlik açığı testi için kullanılır.
   
   
 
 # Sosyal Mühendislik 📱
 Depo | Açıklama
 ---- | ----
-[**Awesome Social Engineering**](https://github.com/v2-dev/awesome-social-engineering)    | List of awesome social engineering resources.
+[**Awesome Social Engineering**](https://github.com/v2-dev/awesome-social-engineering)    | Müthiş sosyal mühendislik kaynaklarının listesi.
 
 
 
 # Hizmet Reddi Saldırıları (D&DOS) 🛠
 Depo | Açıklama
 ---- | ----  
-[**Asyncrone**](https://github.com/fatihsnsy/aSYNcrone)    | Multifunction SYN Flood DDoS Weapon.
-[**UFOnet**](https://github.com/epsylon/ufonet)    | Cryptographic -disruptive toolkit- that allows to perform DoS and DDoS attacks.
-[**GoldenEye**](https://github.com/jseidl/GoldenEye)    | An HTTP DoS Test Tool.
+[**Asyncrone**](https://github.com/fatihsnsy/aSYNcrone)    | Çok İşlevli SYN Flood DDoS Silahı.
+[**UFOnet**](https://github.com/epsylon/ufonet)    | DoS ve DDoS saldırılarını gerçekleştirmeyi sağlayan kriptografik-yıkıcı araç seti.
+[**GoldenEye**](https://github.com/jseidl/GoldenEye)    | Bir HTTP DoS Test Aracı.
 
 
 
 # Oturum Çalma 💽
 Depo | Açıklama
 ---- | ----    
-[**Debinject**](https://github.com/UndeadSec/Debinject)    | Inject malicious code into .debs
-[**Pixload**](https://github.com/chinarulezzz/pixload)    | Set of tools for hiding backdoors creating/injecting payload into images.
+[**Debinject**](https://github.com/UndeadSec/Debinject)    | .debs'e kötü amaçlı kod enjekte edin
+[**Pixload**](https://github.com/chinarulezzz/pixload)    | Görüntülere yük oluşturan/enjekte eden arka kapıları gizlemek için araçlar seti.
 
 
 
 # IDS, Güvenlik Duvarları ve Honeypot'lardan Kaçınmak 🐝
 Depo | Açıklama
 ---- | ---- 
-[**Bluetooth Honeypot**](https://github.com/andrewmichaelsmith/bluepot)    | The system allows monitoring of attacks via a graphical user interface.
-[**Kippo**](https://github.com/desaster/kippo)    | SSH honeypot designed to log brute force attacks.   
-[**MushMush**](http://mushmush.org)    | The foundation is dedicated to the advancement and development of open source software.
-[**Formidable Honeypot**](https://es.wordpress.org/plugins/formidable-honeypot/)    | Easy, non-instrusive SPAM protection.
-[**Elastic Honey**](https://github.com/jordan-wright/elastichoney)    | A Simple Elasticsearch Honeypot.
-[**Honey Thing**](https://github.com/omererdem/honeything)    |    A honeypot for Internet of TR-069 routers/devices.
+[**Bluetooth Honeypot**](https://github.com/andrewmichaelsmith/bluepot)    | Sistem, grafiksel bir kullanıcı arayüzü aracılığıyla saldırıların izlenmesine izin verir.
+[**Kippo**](https://github.com/desaster/kippo)    | Kaba kuvvet saldırılarını günlüğe kaydetmek için tasarlanmış SSH honeypot.
+[**MushMush**](http://mushmush.org)    | Vakıf, açık kaynaklı yazılımın ilerlemesine ve geliştirilmesine adanmıştır.
+[**Formidable Honeypot**](https://es.wordpress.org/plugins/formidable-honeypot/)    | Kolay, zahmetsiz SPAM koruması.
+[**Elastic Honey**](https://github.com/jordan-wright/elastichoney)    | Basit Bir Elasticsearch Honeypot.
+[**Honey Thing**](https://github.com/omererdem/honeything)    |    TR-069 yönlendiricilerinin/cihazlarının İnterneti için bir honeypot.
 
 
 
 # Web Uygulamalarını Hacklemek 🧑🏼‍💻
 Depo | Açıklama
 ---- | ---- 
-[**Awesome Web Hacking**](https://github.com/infoslack/awesome-web-hacking)    | A collection of tools used for SQL Injections and hacking websites.
+[**Awesome Web Hacking**](https://github.com/infoslack/awesome-web-hacking)    | SQL Enjeksiyonları ve bilgisayar korsanlığı web siteleri için kullanılan araçlar koleksiyonu.
 
 
 
 # SQL Enjeksiyonu 💉
 Depo | Açıklama
 ---- | ----  
-[**Sqlmap tool**](https://github.com/sqlmapproject/sqlmap)    | Automates the process of detecting and exploiting SQL injection flaws. 
-[**NoSqlMap**](https://github.com/codingo/NoSQLMap)    | Audit for as well as automate injection attacks and exploit default configuration weaknesses in databases.
-[**Damn Small SQLi Scanner**](https://github.com/stamparm/DSSS)    | SQL injection vulnerability scanner written in under 100 lines of code.
-[**Explo**](https://github.com/telekom-security/explo)    | A simple tool to describe web security issues in a human and machine readable format.
-[**Blisqy**](https://github.com/JohnTroony/Blisqy)    | Blind SQL injection on HTTP Headers and also exploitation of the same vulnerability.
-[**Leviathan**](https://github.com/utkusen/leviathan)    | A mass audit toolkit which has wide range service discovery, brute force, etc.
-[**SQLScan**](https://github.com/Cvar1984/sqlscan)    | Quick web scanner for find an sql inject point on a website.
+[**Sqlmap tool**](https://github.com/sqlmapproject/sqlmap)    | SQL enjeksiyon kusurlarını algılama ve kullanma sürecini otomatikleştirir.
+[**NoSqlMap**](https://github.com/codingo/NoSQLMap)    | Enjeksiyon saldırılarını denetlemenin yanı sıra otomatikleştirin ve veritabanlarındaki varsayılan yapılandırma zayıflıklarından yararlanın.
+[**Damn Small SQLi Scanner**](https://github.com/stamparm/DSSS)    | 100 satır kod altında yazılmış SQL enjeksiyon güvenlik açığı tarayıcısı.
+[**Explo**](https://github.com/telekom-security/explo)    | Web güvenliği sorunlarını insan ve makine tarafından okunabilir bir biçimde açıklamak için basit bir araç.
+[**Blisqy**](https://github.com/JohnTroony/Blisqy)    | HTTP Başlıklarında kör SQL enjeksiyonu ve aynı güvenlik açığından yararlanılması.
+[**Leviathan**](https://github.com/utkusen/leviathan)    | Geniş kapsamlı hizmet keşfi, kaba kuvvet vb. içeren bir toplu denetim araç seti.
+[**SQLScan**](https://github.com/Cvar1984/sqlscan)    | Bir web sitesinde bir sql enjeksiyon noktası bulmak için hızlı web tarayıcısı.
  
  
  
 # Kablosuz Ağları Hacklemek 🕸
 Depo | Açıklama
 ---- | ---- 
-[**WiFi-Pumpkin**](https://github.com/P0cL4bs/wifipumpkin3)    |    A powerful framework which allows and offers security researchers, to mount a wireless network to conduct MITM.
-[**pixiewps**](https://github.com/wiire-a/pixiewps)    | Used to bruteforce offline the WPS PIN exploiting the low or non-existing entropy of some software implementations
-[**Bluetooth Honeypot GUI Framework**](https://github.com/andrewmichaelsmith/bluepot).    | Allows monitoring of attacks via a GUI that provides graphs, lists, a dashboard and further detailed analysis from log files.
-[**Fluxion**](https://github.com/thehackingsage/Fluxion)    | It's a remake by Mr. SAGE with less bugs and more functionality. 
-[**Wifiphisher**](https://github.com/wifiphisher/wifiphisher)    | A Framework for conducting red team engagements or Wi-Fi security testing.
-[**Wifite**](https://github.com/derv82/wifite2)    | Designed to use all known methods for retrieving the password of a wireless access point (router). 
-[**EvilTwin**](https://github.com/Z4nzu/fakeap)    | A script to perform Evil Twin Attack, by getting credentials using a Fake page and Fake Access Point.
-[**Fastssh**](https://github.com/Z4nzu/fastssh)    | Performs multi-threaded scan and brute force attack against SSH protocol using the most commonly credentials.
+[**WiFi-Pumpkin**](https://github.com/P0cL4bs/wifipumpkin3)    |    Güvenlik araştırmacılarının MITM yürütmek için kablosuz bir ağ kurmasına izin veren ve sunan güçlü bir çerçeve.
+[**pixiewps**](https://github.com/wiire-a/pixiewps)    | Bazı yazılım uygulamalarının düşük veya var olmayan entropisinden yararlanarak WPS PIN'ini çevrimdışı olarak kaba kuvvet uygulamak için kullanılır
+[**Bluetooth Honeypot GUI Framework**](https://github.com/andrewmichaelsmith/bluepot).    | Grafikler, listeler, bir gösterge panosu ve günlük dosyalarından daha ayrıntılı analiz sağlayan bir GUI aracılığıyla saldırıların izlenmesine izin verir.
+[**Fluxion**](https://github.com/thehackingsage/Fluxion)    | Bu, daha az hata ve daha fazla işlevsellik ile Bay SAGE'nin yeniden çevrimi. 
+[**Wifiphisher**](https://github.com/wifiphisher/wifiphisher)    | Kırmızı ekip angajmanları veya Wi-Fi güvenlik testleri yürütmek için bir Çerçeve.
+[**Wifite**](https://github.com/derv82/wifite2)    | Bir kablosuz erişim noktasının (yönlendiricinin) parolasını almak için bilinen tüm yöntemleri kullanmak üzere tasarlanmıştır.
+[**EvilTwin**](https://github.com/Z4nzu/fakeap)    | Sahte bir sayfa ve Sahte Erişim Noktası kullanarak kimlik bilgileri alarak Evil Twin Attack gerçekleştirmek için bir komut dosyası.
+[**Fastssh**](https://github.com/Z4nzu/fastssh)    | En yaygın kimlik bilgilerini kullanarak SSH protokolüne karşı çok iş parçacıklı tarama ve kaba kuvvet saldırısı gerçekleştirir.
 
 
 
@@ -152,22 +154,22 @@ Depo | Açıklama
 Depo | Açıklama
 ---- | ----   
 [**Keydroid**](https://github.com/F4dl0/keydroid)   | Android Keylogger + Reverse Shell.
-[**MySMS**](https://github.com/papusingh2sms/mysms)    | Script that generates an Android App to hack SMS through WAN.
-[**Lockphish (Grab target LOCK PIN)**](https://github.com/JasonJerry/lockphish)    | The first tool (05/13/2020) for phishing attacks on the lock screen.
-[**DroidCam (Capture Image)**](https://github.com/kinghacker0/WishFish)    | Generates different phishing links of wishing or custom sites which can grab victim's front camera pictures.
-[**EvilApp (Hijack Session)**](https://github.com/Ro9ueAdmin/EvilApp)   | Script to generate Android App that can hijack autenticated sessions in cookies.
-[**HatCloud(Bypass CloudFlare for IP)**](https://github.com/HatBashBR/HatCloud)    | It makes bypass in CloudFlare for discover the real IP. 
+[**MySMS**](https://github.com/papusingh2sms/mysms)    | WAN üzerinden SMS kesmek için bir Android Uygulaması oluşturan komut dosyası.
+[**Lockphish (Grab target LOCK PIN)**](https://github.com/JasonJerry/lockphish)    | Kilit ekranında kimlik avı saldırıları için ilk araç (05/13/2020).
+[**DroidCam (Capture Image)**](https://github.com/kinghacker0/WishFish)    | Kurbanın ön kamera resimlerini yakalayabilen dilek veya özel sitelerin farklı kimlik avı bağlantılarını oluşturur.
+[**EvilApp (Hijack Session)**](https://github.com/Ro9ueAdmin/EvilApp)   | Çerezlerdeki doğrulanmış oturumları ele geçirebilen Android Uygulaması oluşturmak için komut dosyası.
+[**HatCloud(Bypass CloudFlare for IP)**](https://github.com/HatBashBR/HatCloud)    | Gerçek IP'yi keşfetmek için CloudFlare'de bypass yapar.
 
 
 
 # IoT Hackleme 🤖
 Depo | Açıklama
 ---- | ----   
-[**Vehicle Security**](https://github.com/jaredthecoder/awesome-vehicle-security)    | A curated list about vehicle security, car hacking, and tinkering with the functionality of your car.
+[**Vehicle Security**](https://github.com/jaredthecoder/awesome-vehicle-security)    | Araç güvenliği, araba korsanlığı ve arabanızın işlevselliğiyle uğraşma hakkında derlenmiş bir liste.
   
   
   
 # Kriptografi 🔒
 Depo | Açıklama
 ---- | ---- 
-[**Awesome Cryptography**](https://github.com/sobolevn/awesome-cryptography)    | A curated list of cryptography resources and links.
+[**Awesome Cryptography**](https://github.com/sobolevn/awesome-cryptography)    | Seçilmiş bir şifreleme kaynakları ve bağlantıları listesi.
